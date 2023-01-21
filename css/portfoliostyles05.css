@@ -1,0 +1,81 @@
+/* Abdeletif Saied. 2022-3-03 */
+.float-left 
+ {
+	float: left;
+ }
+
+
+img 
+ {
+	  max-width: 100%;
+ }
+
+
+#outerwrapper 
+ { 
+	width: 70%;
+ }
+
+#main 
+ {
+	clear: both; 
+	padding: 3%;
+	border: 2px black solid;
+	border-radius: 25px;
+ }
+
+
+.myname 
+ { 
+	font-family: Aerial, Calibri, sans-serif;
+ }
+ 
+ 
+html 
+ {
+	Background-color: #4ebeef;
+ }
+ 
+ 
+.mobile /* mobile styles begin from here */
+ {
+	display: inline;
+ }
+ 
+ /* Style for nav properties, padding, margins, and borders */ 
+ nav 
+ {
+	font-family: Aerial, "Times New Roman", serif;
+	font-size: 1.25em;
+	font-weight: bold;
+	text-align: center;
+	color: black;
+ }
+
+/* Style padding and margins for unordered list */
+ nav ul 
+ { 
+	padding: 0;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-right: 0.5em;
+ }
+
+/* Style for nav li background color, rounded corners, removes bullet style, and applies margins and padding for list items within the navigation */ 
+ nav li 
+ { 
+	background-color: #000000;
+	border-radius: 2em;
+	list-style-type: none;
+	margin: 0.5em; 
+	padding: 0.5em;
+	
+ }
+
+/* Style navigation link text color to white and removes the underline */
+ nav li a 
+ {
+	color: #FFFFFF; 
+	text-decoration: none;
+ }
+
